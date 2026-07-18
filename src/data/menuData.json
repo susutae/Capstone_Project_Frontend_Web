@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Nasi Lemak",
+    "category": "Mains",
+    "description": "Fragrant coconut rice with sambal, egg, peanuts, anchovies and cucumber.",
+    "price": 8.5,
+    "emoji": "🍚",
+    "available": true,
+    "dietary": ["Spicy"]
+  },
+  {
+    "id": 2,
+    "name": "Ayam Rendang Rice",
+    "category": "Mains",
+    "description": "Slow-cooked chicken in a rich coconut and spice gravy, served with rice.",
+    "price": 10.9,
+    "emoji": "🍗",
+    "available": true,
+    "dietary": ["Spicy"]
+  },
+  {
+    "id": 3,
+    "name": "Sambal Prawn Bowl",
+    "category": "Mains",
+    "description": "Juicy prawns tossed in house sambal with seasonal greens and steamed rice.",
+    "price": 12.5,
+    "emoji": "🍤",
+    "available": false,
+    "dietary": ["Seafood", "Spicy"]
+  },
+  {
+    "id": 4,
+    "name": "Curry Puffs",
+    "category": "Sides",
+    "description": "Two flaky handmade pastries filled with curried potato and chicken.",
+    "price": 4.8,
+    "emoji": "🥟",
+    "available": true,
+    "dietary": []
+  },
+  {
+    "id": 5,
+    "name": "Crispy Tofu Bites",
+    "category": "Sides",
+    "description": "Golden tofu cubes with sweet soy glaze, chilli and toasted sesame.",
+    "price": 5.5,
+    "emoji": "🧈",
+    "available": true,
+    "dietary": ["Vegetarian"]
+  },
+  {
+    "id": 6,
+    "name": "Ondeh Ondeh",
+    "category": "Sweets",
+    "description": "Pandan rice cakes filled with molten gula melaka and fresh coconut.",
+    "price": 4.2,
+    "emoji": "🍡",
+    "available": true,
+    "dietary": ["Vegetarian"]
+  },
+  {
+    "id": 7,
+    "name": "Pandan Chiffon Slice",
+    "category": "Sweets",
+    "description": "An airy pandan cake made in small batches with coconut milk.",
+    "price": 3.8,
+    "emoji": "🍰",
+    "available": false,
+    "dietary": ["Vegetarian"]
+  },
+  {
+    "id": 8,
+    "name": "Iced Lemongrass Tea",
+    "category": "Drinks",
+    "description": "House-brewed lemongrass tea with calamansi and a touch of honey.",
+    "price": 3.5,
+    "emoji": "🧋",
+    "available": true,
+    "dietary": ["Vegetarian"]
+  }
+]
